@@ -1,3 +1,3 @@
 # Expense-Tracker
 
-An e-commerce website with pure PHP 
+An android application with Processing 
